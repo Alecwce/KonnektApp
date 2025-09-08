@@ -1,0 +1,16 @@
+# Archivos compilados
+/build/
+/dist/
+
+# Configuraciones privadas de NetBeans
+/nbproject/private/
+/nbbuild/
+/nbdist/
+
+# Cache y archivos de usuario
+/nbproject/project.properties.lock
+/nbproject/private.properties.lock
+/nbproject/build-impl.xml.lock
+/nbproject/private/
+nb-configuration.xml
+.nb-gradle/
