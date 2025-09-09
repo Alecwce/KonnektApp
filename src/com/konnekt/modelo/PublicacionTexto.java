@@ -24,4 +24,10 @@ public class PublicacionTexto extends Publicacion {
     public void mostrarContenidoEspecifico() {
         System.out.println("\"" + this.texto + "\"");
     }
+
+    public String getTexto() {
+        return texto;
+    }
+    
+    
 }

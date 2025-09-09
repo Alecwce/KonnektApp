@@ -79,4 +79,8 @@ public abstract class Publicacion {
     // --- GETTERS ---
     public Usuario getAutor() { return autor; }
     public LocalDateTime getFechaCreacion() { return fechaCreacion; }
+    
+    public List<Usuario> getLikes() {
+        return likes;
+    }
 }
