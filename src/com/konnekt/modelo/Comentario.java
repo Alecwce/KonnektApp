@@ -1,4 +1,6 @@
-package konnektapp;
+package com.konnekt.modelo;
+
+import com.konnekt.modelo.Usuario;
 
 /**
  * Representa un comentario en una publicación.

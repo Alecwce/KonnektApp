@@ -1,5 +1,6 @@
-package konnektapp;
+package com.konnekt.modelo;
 
+import com.konnekt.modelo.Usuario;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
