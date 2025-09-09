@@ -1,4 +1,4 @@
-package com.konnekt.gui;
+package com.konnekt.vista;
 
 import com.konnekt.controlador.Konnekt;
 import javax.swing.JFrame;

@@ -3,7 +3,7 @@ package com.konnekt.controlador;
 
 
 /*import com.konnekt.vista.VistaConsola;*/
-import com.konnekt.gui.LoginFrame;
+import com.konnekt.vista.LoginFrame;
 import javax.swing.UIManager;
 
 /**
