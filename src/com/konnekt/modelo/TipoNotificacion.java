@@ -1,4 +1,4 @@
-package konnektapp;
+package com.konnekt.modelo;
 
 /**
  * Define los tipos de notificaciones que un usuario puede recibir.

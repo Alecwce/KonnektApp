@@ -1,4 +1,7 @@
-package konnektapp;
+package com.konnekt.modelo;
+
+import com.konnekt.modelo.Publicacion;
+import com.konnekt.modelo.Usuario;
 
 /**
  * Representa una publicación que contiene una imagen y una descripción.

@@ -1,4 +1,4 @@
-package konnektapp;
+package com.konnekt.modelo;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
@@ -123,4 +123,13 @@ public class Usuario {
     public List<Publicacion> getPublicaciones() {
         return publicaciones;
     }
+    
+    public List<Notificacion> getNotificaciones() {
+        return notificaciones;
+    }
+    
+    public List<Usuario> getSeguidos() {
+        return seguidos;
+    }
+    
 }
