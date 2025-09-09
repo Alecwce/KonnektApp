@@ -26,4 +26,16 @@ public class Notificacion {
         System.out.println("  [" + fecha.format(formatter) + "] " +
                            usuarioOrigen.getNombreUsuario() + " " + this.mensaje);
     }
+    
+    public Usuario getUsuarioOrigen() {
+        return usuarioOrigen;
+    }
+
+    public LocalDateTime getFecha() {
+        return fecha;
+    }
+
+    public String getMensaje() {
+        return mensaje;
+    }
 }
